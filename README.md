@@ -2,9 +2,13 @@
 
 <p align="center">
   <a href="https://github.com/xptea/VWidget">
-    <img src="https://img.shields.io/github/v/release/xptea/VWidget" alt="VWIDG version" />
+    <img src="https://img.shields.io/github/v/release/xptea/VWidget" alt="VWidget version" />
+  </a>
+  <a href="https://github.com/xptea/VWidget/releases">
+    <img src="https://img.shields.io/github/downloads/xptea/VWidget/total.svg" alt="Total downloads" />
   </a>
 </p>
+
 
 <br />
 <div align="center">
@@ -12,7 +16,7 @@
     <img src="https://github.com/user-attachments/assets/4c069d79-4bca-40b1-bcbe-e0ad8e0100bb" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">VWIDG</h3>
+  <h3 align="center">VWidget</h3>
 
   <p align="center">
     Open-Source Desktop Widget Engine for Windows
@@ -22,13 +26,15 @@
     ·
     <a href="https://github.com/xptea/VWidget/issues">Request Feature</a>
     ·
-    <a href="https://github.com/xptea/VWidget/discussions">Submit Widget</a>
+    <a href="https://github.com/xptea/VWidget/discussions">Submit Widget idea</a>
+    ·
+    <a href="https://github.com/xptea/VWidget/releases">Install</a>
   </p>
 </div>
 
 ## About The Project
 
-**VWIDG** is a modern desktop widget engine built with **Tauri**. Create, manage, and customize beautiful translucent widgets for your desktop.
+**VWidget** is a modern desktop widget engine built with **Tauri**. Create, manage, and customize beautiful translucent widgets for your desktop.
 
 ## Features
 
@@ -38,7 +44,6 @@
 - **Multi-Window Architecture**: Each widget runs in its own native window
 - **Drag & Drop**: Native window dragging with lock/unlock support
 - **Auto-Updates**: Built-in update checker with one-click downloads
-- **Dark Theme**: Sleek dark UI with customizable widget colors
 
 ## Widget Types
 
